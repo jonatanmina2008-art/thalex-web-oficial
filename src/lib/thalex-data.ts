@@ -89,7 +89,7 @@ export const STREAMING_NETWORK: readonly ThalexService[] = [
     name: "Gemini 3.1 Pro",
     price: "$30.00",
     priceValue: 30.0,
-    unit: "1 Año",
+    unit: "18 Meses",
     features: [
       "Resolución avanzada de problemas",
       "Generación de imágenes con IA",
@@ -100,7 +100,7 @@ export const STREAMING_NETWORK: readonly ThalexService[] = [
     category: "IA",
     tier: "vip",
     popular: true,
-    description: "Gemini 3.1 Pro con suite Google Workspace y herramientas de IA generativa por 1 año completo.",
+    description: "Gemini 3.1 Pro con suite Google Workspace y herramientas de IA generativa por 18 meses.",
     highlight: "5 TB de almacenamiento — Gmail + Google Drive",
   },
   {
@@ -144,8 +144,8 @@ export const STREAMING_NETWORK: readonly ThalexService[] = [
   {
     id: "paramount",
     name: "Paramount+",
-    price: "$3.50",
-    priceValue: 3.5,
+    price: "$4.50",
+    priceValue: 4.5,
     unit: "1 Pantalla",
     features: ["1 Pantalla", "UEFA Champions", "Originales", "4K"],
     logoUrl: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Paramount_Plus.svg",
@@ -205,9 +205,9 @@ export const STREAMING_NETWORK: readonly ThalexService[] = [
   {
     id: "spotify",
     name: "Spotify",
-    price: "$6.00",
-    priceValue: 6.0,
-    unit: "2 Meses",
+    price: "$4.00",
+    priceValue: 4.0,
+    unit: "1 Mes",
     features: ["Música sin límites", "Sin Anuncios", "Descargas Offline", "2 Meses incluidos"],
     logoUrl:
       "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg",
